@@ -17,7 +17,7 @@
 - ~~Use the font property to style the figcaption so that the size is smaller and the font is lighter-weight and visually distinct, use proper font linking~~
 - ~~Use auto margins, flex displays, and justify content to evenly distribute the pagination buttons at the bottom of the page, Style borders of buttons as you wish~~
 - ~~Add name to footer copyright.~~
-- Style page with a suitable color scheme, either light or dark.Consider using color for: navigation-bar background and text, footer background and text, page background, header background, body text, and pagination buttons, both normal and on hover.
+- ~~Style page with a suitable color scheme, either light or dark.Consider using color for: navigation-bar background and text, footer background and text, page background, header background, body text, and pagination buttons, both normal and on hover.~~
 
 ### Extra
 
